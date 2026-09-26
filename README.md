@@ -11,3 +11,4 @@ d/right arrow-forward
 a/left arrow-backward
 
 i will upload files in future commits. for now this is it . btw files meaning game assets and gosdot files
+Right now iot is not available to setup locally and try on godot. it is available only on itch.io
